@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/STLReader2.dir/Buffer.cpp.o CMakeFiles/STLReader2.dir/readSTL.cpp.o CMakeFiles/STLReader2.dir/Components.cpp.o  -o STLReader2 

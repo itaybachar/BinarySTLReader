@@ -1,0 +1,3 @@
+C:/Users/itayb/CLionProjects/STLReader2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/itayb/CLionProjects/STLReader2/cmake-build-debug/CMakeFiles/STLReader2.dir
+C:/Users/itayb/CLionProjects/STLReader2/cmake-build-debug/CMakeFiles/edit_cache.dir

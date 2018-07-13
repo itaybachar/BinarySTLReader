@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/itay/Desktop/Programming/CLionProjects/BinaryReader1/Buffer.cpp
+Buffer.h
+/home/itay/Desktop/Programming/CLionProjects/BinaryReader1/Buffer.h
+
+/home/itay/Desktop/Programming/CLionProjects/BinaryReader1/Buffer.h
+unistd.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+Components.h
+/home/itay/Desktop/Programming/CLionProjects/BinaryReader1/Components.h
+
+/home/itay/Desktop/Programming/CLionProjects/BinaryReader1/Components.cpp
+Components.h
+/home/itay/Desktop/Programming/CLionProjects/BinaryReader1/Components.h
+
+/home/itay/Desktop/Programming/CLionProjects/BinaryReader1/Components.h
+iostream
+-
+fstream
+-
+vector
+-
+cmath
+-
+string
+-
+
+/home/itay/Desktop/Programming/CLionProjects/BinaryReader1/readSTL.cpp
+Buffer.h
+/home/itay/Desktop/Programming/CLionProjects/BinaryReader1/Buffer.h
+chrono
+-
+

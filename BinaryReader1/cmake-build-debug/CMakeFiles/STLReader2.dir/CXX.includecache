@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/itayb/CLionProjects/STLReader2/Buffer.cpp
+Buffer.h
+C:/Users/itayb/CLionProjects/STLReader2/Buffer.h
+
+C:/Users/itayb/CLionProjects/STLReader2/Buffer.h
+unistd.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+Components.h
+C:/Users/itayb/CLionProjects/STLReader2/Components.h
+
+C:/Users/itayb/CLionProjects/STLReader2/Components.cpp
+Components.h
+C:/Users/itayb/CLionProjects/STLReader2/Components.h
+
+C:/Users/itayb/CLionProjects/STLReader2/Components.h
+iostream
+-
+fstream
+-
+vector
+-
+cmath
+-
+string
+-
+
+C:/Users/itayb/CLionProjects/STLReader2/readSTL.cpp
+Buffer.h
+C:/Users/itayb/CLionProjects/STLReader2/Buffer.h
+chrono
+-
+
